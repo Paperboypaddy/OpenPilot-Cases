@@ -3,7 +3,7 @@
 
 ### Rough Draft Progress
 
-![Rough Draft Front View](/images/rough draft front view.jpg)
+![](./images/6T BatteryLess Mod.jpg)
 
 ### BatteryLess Mod
 
