@@ -1,2 +1,3 @@
-# 6TCase
-Case for OnePlus 6T (Openpilot)
+# Case for OnePlus 6T (Openpilot)
+
+Still WIP
