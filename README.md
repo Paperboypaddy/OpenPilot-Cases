@@ -12,6 +12,10 @@ Here's the current progress on the case. Its currently fully functional, still h
 
 *Images may not be up to date*
 
+<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/Test_fit_1.jpg" width="600">
+<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/Test_fit_2.jpg" width="600">
+<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/Test_fit_3.jpg" width="600">
+
 ### BatteryLess Mod
 
 Testing voltage and resistant's from the battery. The marked pads are main voltage about 3.5v from my reading at the time. Battery is rated for 3.85v max 4.4v. 
