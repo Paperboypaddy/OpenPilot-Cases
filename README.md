@@ -5,10 +5,11 @@
 
 I've Decided to go with a 3-4 piece design simular to the [FREON-case](https://github.com/RetroPilot/FREON-case). Planning on using a [40mm Noctua Fan](https://www.amazon.com/Noctua-Cooling-Bearing-NF-A4X10-FLX-5V/dp/B00NEMGCIA) for the cooling on this unit. Havent deciding if i should use some heat sinks on the back of the phone to cool the SoC but soon enough i can test that once i get my car running OpenPilot. I was thinking of routing the USB C cable to the rear of the case using a USB C ribbon cable but i don't think im going to do that for this model. Main priority is getting OpenPilot running in my Kia Sedona 2004 that I'm RetroFitting.
 
-Here's the current progress on the case. Its currently fully functional, still havent printed out the last part to test the fit on it. I'll post an update on here with some images of the case in use.
+Images from latest development v0.1.1:
 
-<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/Finished_functional_rear.jpg" width="600">
-<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/Finished_functional_front.jpg" width="600">
+<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/v0.1.1%20Front.jpg" width="600">
+<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/v0.1.1_Rear.jpg" width="600">
+<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/v0.1.1_Rear_side.jpg" width="600">
 
 *Images may not be up to date*
 
