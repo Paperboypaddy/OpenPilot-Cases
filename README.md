@@ -25,12 +25,6 @@ Testing voltage and resistant's from the battery. The marked pads are main volta
 
 So i was doing some testing on using the battery board to see if that was an easier/safer way to go batteryless. And it seems like the battery board isnt for some reason liking that the battery voltage is going to 0v when its unplugged. It seems its fine once it gets plugged into USB power and starts its "charging". I think its still going to be best to use a Buck Converter and a super capacitor thats getting power off of the 5v from the USB C port to power the phone just like how the Comma 2/EON did it. 
 
-### OLD INFORMATION:
-~~DO NOT try to solder the battery connectors off. The heat transfers to the battery very fast and you can damage or even explode the battery from excessive heat. Just take a pair of small angle cutters and be careful not to short anything, just snip the two battery terminals. Once you've disconnected the battery from the bcm you can now solder wires to the buck converter. Document before hand the polarity of the battery leads so you solder correctly.~~
-
-<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/6T_Battery.jpg" width="300">
-<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/6T_BatteryLess_Mod.jpg" width="300">
-<img src="https://github.com/Paperboypaddy/6TCase/blob/main/images/6T_BatteryLess_in_action.jpg" width="300">
 
 
 
