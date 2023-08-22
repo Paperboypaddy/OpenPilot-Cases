@@ -1,4 +1,4 @@
-# Case for OnePlus 6T (Openpilot)
+# Case for Oneplus Devices (Openpilot)
 
 
 ### Fully Functional Progress
